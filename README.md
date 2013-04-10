@@ -1,2 +1,2 @@
 I'am not 'master' branch, but 'develop' branch.
-added first feature.
+added first feature, and finished.
